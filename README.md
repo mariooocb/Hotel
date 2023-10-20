@@ -1,2 +1,2 @@
 # Hotel
-It is a basic reservation system for a hotel.
+Link to board -> https://trello.com/b/wnrzuu5Z/project
