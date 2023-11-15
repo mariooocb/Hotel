@@ -6,7 +6,8 @@ import javax.persistence.Column;
 
 @Data
 public class RoomDto {
-    private int idRoom;
+    private long idRoom;
     private int numberOfBeds;
-    private int price;
+    private float price;
+    private String description;
 }
